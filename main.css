@@ -11,6 +11,22 @@ body {
     border-color: gray;
 }
 
+.author {
+    color: #d0b28e !important;
+}
+
+.expand {
+    color: #d0b28e !important;
+}
+
+.tagline, .search-result-meta {
+    color: #528386 !important;
+}
+
+.live-timestamp::before {
+    content: "POSTING DATE: ";
+}
+
 .morelink a {
     background-color: #D65C31 !important;
     color: #fff;
