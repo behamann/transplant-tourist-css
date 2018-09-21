@@ -16,6 +16,10 @@ body {
     color: #fff;
 }
 
+#sr-more-link {
+    background:#09080F !important;
+}
+
 .nub {
     background-color: #D65C31 !important;
     background-image: none !important;
